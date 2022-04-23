@@ -1,0 +1,12 @@
+C:\Source\WAPizza\WAPizza.Core\bin\Debug\net5.0\WAPizza.Core.deps.json
+C:\Source\WAPizza\WAPizza.Core\bin\Debug\net5.0\WAPizza.Core.dll
+C:\Source\WAPizza\WAPizza.Core\bin\Debug\net5.0\ref\WAPizza.Core.dll
+C:\Source\WAPizza\WAPizza.Core\bin\Debug\net5.0\WAPizza.Core.pdb
+C:\Source\WAPizza\WAPizza.Core\obj\Debug\net5.0\WAPizza.Core.csproj.AssemblyReference.cache
+C:\Source\WAPizza\WAPizza.Core\obj\Debug\net5.0\WAPizza.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\WAPizza\WAPizza.Core\obj\Debug\net5.0\WAPizza.Core.AssemblyInfoInputs.cache
+C:\Source\WAPizza\WAPizza.Core\obj\Debug\net5.0\WAPizza.Core.AssemblyInfo.cs
+C:\Source\WAPizza\WAPizza.Core\obj\Debug\net5.0\WAPizza.Core.csproj.CoreCompileInputs.cache
+C:\Source\WAPizza\WAPizza.Core\obj\Debug\net5.0\WAPizza.Core.dll
+C:\Source\WAPizza\WAPizza.Core\obj\Debug\net5.0\ref\WAPizza.Core.dll
+C:\Source\WAPizza\WAPizza.Core\obj\Debug\net5.0\WAPizza.Core.pdb
